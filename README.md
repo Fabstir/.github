@@ -10,7 +10,7 @@ This is the official GitHub repository of Fabstir, a builder of innovative solut
 
 ### Introduction
 
-Fabstir's development can be thought of as an open-source layer atop Sia storage, incorporating the features of Web3.
+Fabstir's development has been to further enable Web3 usage of Sia's decentralised storage with open-source projects.
 
 ### Fabstir: The Web3 Layer
 
