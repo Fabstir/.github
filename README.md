@@ -12,7 +12,7 @@ This is the official GitHub repository of Fabstir, a builder of innovative solut
 
 Fabstir's development can be thought of as an open-source layer atop Sia storage, incorporating the features of Web3.
 
-### Fabstir: The Open-Source Layer
+### Fabstir: The Web3 Layer
 
 #### Tokenisation
 
@@ -40,4 +40,4 @@ Fabstir employs [WGPU](https://github.com/gfx-rs/wgpu), a Rust wrapper for [WebG
 
 #### Kubernetes
 
-Utilising [Kubernetes](https://kubernetes.io/), Fabstir efficiently manages high workloads in video/audio transcoding, with scalable deployment options across various platforms. This infrastructure is critical for meeting user demand fluctuations. Further details and code are available [here](https://github.com/Fabstir/transcode-infra-example).
+Utilising [Kubernetes](https://kubernetes.io/), Fabstir efficiently manages high workloads in video/audio transcoding, with scalable deployment options across various platforms. This infrastructure is critical for meeting user demand fluctuations. Further details and code are available [here](https://github.com/Fabstir/transcode-infra).
