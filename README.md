@@ -20,7 +20,7 @@ Fabstir utilises a public EVM-compatible blockchain for storing property rights.
 
 #### Video Transcoder
 
-The transcoder supports h264 and AV1 formats. While h264 ensures wide compatibility, AV1 offers improved compression and quality without licensing fees. Optimal performance on the S5 network is achieved through hardware like NVidia 4000 series graphics cards or Intel Arc for AV1 transcoding. Code can be found [here](https://github.com/Fabstir/transcode).
+The transcoder supports h264 and AV1 formats. While h264 ensures wide compatibility, AV1 offers improved compression and quality without licensing fees. Optimal performance on the S5 network is achieved through hardware like NVidia 4000 series graphics cards or Intel Arc for AV1 transcoding. Code can be found [here](https://github.com/Fabstir/transcode-example).
 
 #### Account Abstraction
 
