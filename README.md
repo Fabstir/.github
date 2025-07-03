@@ -1,43 +1,197 @@
-# .github
+# Fabstir
 
-This is the official GitHub repository of Fabstir, a builder of innovative solutions for Web3 and AI. Our projects include full-stack web3 development, decentralised peer-to-peer technology, video streaming, 3d rendering, and more. Visit our website at https://fabstir.com to learn more about us and our work.
+Building the foundational infrastructure for Web3 entertainment and decentralised applications.
 
 <p align="center">
 <img src="https://github.com/Fabstir/.github/blob/main/Fabstir_github.png" width="690" width="540" alt="Fabstir overview">
 </p>
 
-## Summary of Open-Source Contributions by Fabstir in Web3 Technology
+## Overview
 
-### Introduction
+Fabstir is revolutionising the entertainment industry by enabling creators and distributors to operate truly owned, interconnected streaming platforms—replacing the 30-50% extraction model with transparent smart contracts and instant, verifiable payments. We're building collaborative networks where distributors, filmmakers, musicians, creators and consumers thrive together through enriched social experiences.
 
-Fabstir's development has been to further enable Web3 usage of Sia's decentralised storage with open-source projects.
+Visit our website at https://fabstir.com to learn more.
 
-### Fabstir: The Web3 Layer
+## Open-Source Contributions
 
-#### Tokenisation
+### Technical Stack
 
-Fabstir utilises a public EVM-compatible blockchain for storing property rights. These immutable accounts are complemented with off-chain data hosted on the peer-to-peer decentralised network of [Sia](https://sia.tech/) through [S5](https://github.com/s5-dev/S5). S5’s content-addressing hashes that are kept on the blockchain then authenticate the data integrity of offline storage. This approach safeguards intellectual property for creators of diverse content types (whether that be images, video, audio, text, files, code, 3d models, contracts, NFT metadata and more), all stored on Sia via S5 using a [JavaScript client SDK](https://github.com/parajbs-dev/s5client-js). Additionally, Fabstir adopts standards from [Modular NFTs](https://singular.app/) (formerly NFT 2.0) to ensure modern encryption and comprehensive ownership control through digital wallets. Further details and code are available [here](https://github.com/Fabstir/Fabstir_Media_Player_Snaps/tree/main/packages/site).
+Our open-source infrastructure combines cutting-edge Web3 technologies:
 
-#### Video Transcoder
+**Frontend:**
 
-The transcoder supports h264 and AV1 formats. While h264 ensures wide compatibility, AV1 offers improved compression and quality without licensing fees. Optimal performance on the S5 network is achieved through hardware like NVidia 4000 series graphics cards or Intel Arc for AV1 transcoding. Code can be found [here](https://github.com/Fabstir/transcode-example).
+- Next.js, React, JavaScript, TypeScript
+- Tailwind CSS, ethers.js
+- WebAssembly (WASM), Rust
 
-#### Account Abstraction
+**Backend:**
 
-To streamline Web3 dapp adoption, Fabstir utilises account abstraction. This eliminates the need for separate native blockchain tokens, allowing transactions and gas fees to be paid with the same token, like an ERC-20 stablecoin. This is made possible by treating user accounts as smart contract addresses. Fabstir’s collaboration with [Biconomy](https://www.biconomy.io/) is crucial for this implementation. More information and code is available [here](https://github.com/Fabstir/Fabstir_Media_Player_Snaps/tree/main/packages/site).
+- Node.js, Express.js
+- Rust, Python
+- RESTful APIs, HTTP/2
 
-#### Social Login
+**Blockchain Infrastructure:**
 
-Fabstir’s dapps now support direct payments from debit/credit cards or bank accounts. Users can log in with their social media accounts or email, seamlessly integrating into the Web3 ecosystem with a self-custodial crypto account. This user-friendly approach is facilitated by our partnership with [Particle Network](https://particle.network/), and further details and code are provided [here](https://github.com/Fabstir/Fabstir_Media_Player_Snaps/tree/main/packages/site).
+- Base (Ethereum Layer-2) - Primary blockchain
+- Polygon (Ethereum Layer-2) - Secondary blockchain
+- Coinbase Smart Wallet - Passkey authentication
+- Particle Network Wallet - Alternative wallet integration
 
-#### Snaps
+**Decentralised Storage:**
 
-Through the [Metamask Snaps](https://metamask.io/snaps/) framework, Fabstir extends Metamask wallet capabilities while maintaining a secure, isolated environment on the host device. This enables storage of various data types, including NFT and 3d model data, within the wallet. More information and code is available [here](https://github.com/Fabstir/Fabstir_Media_Player_Snaps/tree/main).
+- Sia S5 Network - Primary content delivery and storage
+- IPFS - Distributed file storage and content addressing
 
-#### WGPU
+**AI & Machine Learning:**
 
-Fabstir employs [WGPU](https://github.com/gfx-rs/wgpu), a Rust wrapper for [WebGPU](https://www.w3.org/TR/webgpu/), offering superior rendering speeds and direct GPU hardware access. Our implementation supports ERC-7401 nestable NFTs for constructing intricate 3d models, with navigation controls to view from different angles. Additional details and code can be found [here](https://github.com/Fabstir/fabstir-renderer).
+- Mixtral 8x7B and 8x22B LLM - Self-hosted open-source models
 
-#### Kubernetes
+### Key Projects
 
-Utilising [Kubernetes](https://kubernetes.io/), Fabstir efficiently manages high workloads in video/audio transcoding, with scalable deployment options across various platforms. This infrastructure is critical for meeting user demand fluctuations. Further details and code are available [here](https://github.com/Fabstir/transcode-infra).
+#### Fabstir Cinema Player (Open-Source)
+
+Successfully deployed at Karma Sanctum Soho cinema, screening award-winning short films including Oscar-nominated content. This open-source media player enables:
+
+- Direct filmmaker-to-cinema streaming via blockchain
+- 4K video playback with smooth performance
+- Instant payment distribution to creators during screenings
+- NFT minting capabilities for digital ownership
+- [View code](https://github.com/Fabstir/Fabstir_Media_Player_Snaps)
+
+#### Fabstir Platform Ecosystem (Mixed Open/Closed Source)
+
+White-label streaming platforms that distributors can customise with their branding whilst joining our collaborative network:
+
+- **Non-Multiplex Cinema Platform** - Launching September 2025 for short films and festival content
+- **Magic Town** - Commercial platform for films and TV series
+- Full social media integration (threads, chat, following)
+- Multiple monetisation models (subscription, purchase, auction, tipping)
+- Smart contract automation for revenue splits between creators and distributors
+- Core infrastructure is open-source, business logic proprietary
+
+#### Video Transcoding Infrastructure (Open-Source)
+
+High-performance transcoding supporting both h264 (wide compatibility) and AV1 (superior compression):
+
+- Hardware acceleration via NVidia 4000 series or Intel Arc
+- Kubernetes orchestration for scalable workloads
+- Optimised for S5 network performance
+- Handles 4K content that distributors demand
+- [View code](https://github.com/Fabstir/transcode-example) and [infrastructure](https://github.com/Fabstir/transcode-infra)
+
+#### Smart Contract Suite (Open-Source)
+
+Comprehensive blockchain infrastructure enabling:
+
+- **Revenue Distribution Contracts** - Automatic splits between multiple parties
+- **NFT Streaming Rights** - Limited edition digital ownership (e.g., 10,000 copies per film)
+- **Collaborative Business Models** - Cross-platform licensing without lawyers
+- **FAB Token System** - Tiered staking (1k-500k FAB) with creator benefits
+- **DAO Governance** - Community-driven platform decisions
+- Audited contracts ensuring security for millions in transactions
+
+#### Account Abstraction & Onboarding (Open-Source)
+
+Eliminating Web3 complexity for mainstream adoption:
+
+- Credit/debit card payments. Now with Coinbase Smart Wallet integration
+- Social login (Google, Facebook, email) creating self-custodial wallets
+- Gasless transactions using Coinbase Smart Wallet for seamless UX
+- No crypto knowledge required - users don't even know they're using blockchain
+- [View implementation](https://github.com/Fabstir/Fabstir_Media_Player_Snaps/tree/main/packages/site)
+
+#### Decentralised Storage Integration (Open-Source)
+
+Deep integration with Sia's S5 network providing:
+
+- Content-addressed storage with on-chain hash verification
+- End-to-end encryption for premium content
+- Cost-effective CDN alternative beating traditional infrastructure
+- True data ownership - content can't be deplatformed
+- Browser-based access through WebTransport
+
+#### AI-Powered Discovery System (Closed Source)
+
+Self-hosted Mixtral LLMs enabling:
+
+- Cross-platform content discovery across all distributors
+- Semantic search matching films to audience preferences
+- Content moderation and community flagging
+- Source attestation for combating deepfakes
+- No vendor lock-in or per-request costs
+
+#### WGPU 3D Rendering Engine (Open-Source)
+
+Advanced rendering capabilities for next-generation content:
+
+- Direct GPU hardware access via WebGPU
+- Support for ERC-7401 nestable NFTs
+- Complex 3D model construction and navigation
+- Future-proofing for metaverse integration
+- [View renderer](https://github.com/Fabstir/fabstir-renderer)
+
+#### MetaMask Snaps Integration (Open-Source)
+
+Extending wallet capabilities whilst maintaining security:
+
+- Store NFT and 3D model data within wallets
+- Enhanced user experience for Web3 interactions
+- Secure isolated environment on host devices
+- Discovery mechanism for new users
+- [View implementation](https://github.com/Fabstir/Fabstir_Media_Player_Snaps)
+
+#### AI Vector Database (Coming Soon - Open-Source)
+
+Next-generation AI infrastructure for Web3:
+
+- Decentralised vector storage with MCP server integration
+- HAMT sharding for millions of vectors with O(log n) lookups
+- Cryptographic proof of AI data sources
+- Native Base smart contracts with EIP-712 signatures
+- Enabling verifiable AI agents and RAG applications
+
+### Why This Matters
+
+We're solving Web3's biggest infrastructure problem by creating:
+
+- ✅ Performance optimisation through decentralised storage
+- ✅ Cost-effective data solutions without gatekeepers
+- ✅ True data validation and integrity
+- ✅ Genuine user data ownership
+
+Our upcoming app store will serve as distribution and payment rails, allowing ANY Web3 developer to plug their applications directly into our ecosystem.
+
+## License
+
+Fabstir network infrastructure is open-source (MIT License). Individual Fabstir applications use a mixture of open and closed source components.
+
+## Sia Foundation Grant: Enhanced s5.js
+
+### Building Developer-Friendly Infrastructure
+
+Jules Lai, Fabstir's founder, has been awarded a Sia Foundation grant ($49,600 over 8 months) to enhance the s5.js library with critical developer features that make decentralised storage accessible to mainstream developers.
+
+**Key Enhancements Being Developed:**
+
+1. **Path-based API** - Simple operations like `getByPath(rootKey, '/profile/settings')` and `putByPath(rootKey, '/gallery/photo.jpg', data)`
+
+2. **Media Handling Pipeline** - Automatic thumbnail generation for images, metadata extraction, and progressive loading support
+
+3. **Reliable Updates** - Last-Writer-Wins conflict resolution for safe concurrent writes
+
+4. **Directory Utilities** - Efficient browsing of large collections with pagination and caching
+
+5. **FS5 Sharding Groundwork** - HAMT/B-Tree implementations for handling massive directories
+
+These improvements complement Sia's recent v2 hardfork capabilities (browser-based access via WebTransport, 99% reduced blockchain storage through UTreeXO) and make S5 the missing infrastructure layer that Web3 developers need.
+
+**Why This Matters for Fabstir:**
+With many US film distributors and production houses interested in onboarding, bringing potentially 1000s of films and millions of users, this grant work ensures our decentralised infrastructure can scale to meet demand whilst maintaining performance and reliability.
+
+**Learn more about the enhanced s5.js project:** [https://github.com/julesl23/enhanced-s5js-design](https://github.com/julesl23/enhanced-s5js-design)
+
+All enhancements will be contributed back to the upstream s5.js repository as open-source code under the MIT licence.
+
+---
+
+_Building the foundational infrastructure that makes truly decentralised applications viable for mainstream adoption._
