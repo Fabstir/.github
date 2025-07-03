@@ -169,7 +169,7 @@ Fabstir network infrastructure is open-source (MIT License). Individual Fabstir 
 
 ### Building Developer-Friendly Infrastructure
 
-Jules Lai, Fabstir's founder, has been awarded a Sia Foundation grant ($49,600 over 8 months) to enhance the s5.js library with critical developer features that make decentralised storage accessible to mainstream developers.
+Jules Lai, Fabstir's founder, has been awarded a Sia Foundation grant to enhance the s5.js library with critical developer features that make decentralised storage accessible to mainstream developers.
 
 **Key Enhancements Being Developed:**
 
