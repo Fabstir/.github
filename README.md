@@ -3,7 +3,7 @@
 Building the foundational infrastructure for Web3 entertainment and decentralised applications.
 
 <p align="center">
-<img src="https://github.com/Fabstir/.github/blob/main/Fabstir_github.png" width="690" width="540" alt="Fabstir overview">
+<img src="https://fabstir.com/img2/Fabstir%20Core%20Principles%20details%20diag%20202511.jpg" width="690" alt="Fabstir overview">
 </p>
 
 ## Overview
