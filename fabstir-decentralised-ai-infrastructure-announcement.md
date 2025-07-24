@@ -2,7 +2,7 @@
 
 ## A New Choice for Enterprise AI
 
-While enterprises invest millions in AI services, Fabstir is launching something revolutionary: the world's first fully decentralised AI infrastructure. Working directly with the Sia Foundation—creators of the most secure decentralised storage system by design—we're delivering complete data sovereignty whilst reducing costs by 90%. This is the free market alternative that gives businesses true control of their AI destiny.
+While enterprises invest millions in AI services, Fabstir is launching something revolutionary: the world's first fully decentralised AI infrastructure. Working directly with the Sia Foundation—creators of the most secure decentralised storage system by design—we're delivering complete data sovereignty whilst reducing costs by up to 80%. This is the free market alternative that gives businesses true control of their AI destiny.
 
 ## Why Businesses Need More Options
 
@@ -25,7 +25,7 @@ Through our Sia Foundation grant, we've enhanced the S5 protocol to create sover
 **Business Benefits**:
 - **Guaranteed Availability**: Sia's blockchain network ensures your data remains accessible through cryptographic contracts
 - **Unparalleled Security**: Data encrypted and distributed across 30 independent servers globally—no single point of failure
-- **Enterprise Performance**: Matches leading cloud providers' speed at 90% lower cost
+- **Enterprise Performance**: Matches leading cloud providers' speed at 90% lower storage cost
 
 **In Plain English**: Your data becomes virtually indestructible whilst remaining completely under your control—no trust required.
 
@@ -52,7 +52,7 @@ Creating a true marketplace where thousands of providers compete to serve you be
 4. **Instant Settlement**: Smart contracts handle payments transparently and immediately
 5. **Your Choice**: Select providers based on your specific needs—price, location, specialisation
 
-**The Opportunity**: We're democratising AI infrastructure, creating opportunities for providers and savings for users.
+**The Opportunity**: We're democratising AI infrastructure, creating opportunities for providers and significant savings for users through competition.
 
 ### 4. AI-Enabled Application Store: Innovation Without Barriers
 
@@ -78,7 +78,7 @@ A decentralised app store for applications that leverage AI and blockchain capab
 ### Financial Services: Protecting Competitive Edge
 **Challenge**: Investment firms need AI analysis without exposing proprietary strategies.
 
-**Fabstir Approach**: Trading algorithms remain encrypted in your vector database. Processing happens on distributed nodes using zero-knowledge proofs. Complete regulatory audit trails. Typical savings: 90% versus traditional solutions.
+**Fabstir Approach**: Trading algorithms remain encrypted in your vector database. Processing happens on distributed nodes using zero-knowledge proofs. Complete regulatory audit trails. Typical savings: 70-90% versus traditional solutions.
 
 ### Healthcare: Privacy-First AI
 **Solution**: Patient data stays within hospital control. AI models process data locally. Multiple institutions can collaborate on research without sharing raw data. Full HIPAA compliance built-in.
@@ -115,7 +115,9 @@ We're building compliance into our foundation:
 - Plus: Lock-in costs, limited flexibility
 
 **Fabstir's Approach**:
-- 90% typical cost reduction
+- Storage costs: 90% reduction (proven by Sia network)
+- Vector database: 80-90% reduction (leveraging decentralised storage)
+- LLM compute: Significant savings through marketplace competition
 - Complete infrastructure ownership
 - No vendor dependencies
 - Costs decrease as network grows
