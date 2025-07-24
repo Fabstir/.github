@@ -93,8 +93,9 @@ Fabstir's decentralised app store isn't just for AI apps—it's for ANY applicat
 
 We're not just talking about compliance—we're building it into our DNA:
 
+- **DORA**: Operational resilience for financial services (in progress)
 - **ISO 27001**: Information security (in progress)
-- **ISO 42001**: First AI management standard
+- **ISO 42001**: First AI management standard (in progress)
 - **SOC 2 Type II**: US enterprise standard
 - **UK GDPR**: Full compliance built-in
 - **EU AI Act**: Ready for 2026
