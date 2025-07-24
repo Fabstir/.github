@@ -58,9 +58,10 @@ This is where everything changes. Instead of three companies controlling AI pric
 
 Fabstir's decentralised app store isn't just for AI apps—it's for ANY application that benefits from AI enhancement and blockchain security.
 
-**What's Already Live**:
-- **Fabstir Cinema Player**: Stream films in cinemas with AI-powered content discovery
-- **White-Label Streaming Platform**: Netflix-like service you fully own, enhanced with AI recommendations
+**For Businesses**:
+- **Compliance Built-In**: Every app comes with audit trails and data sovereignty guarantees
+- **True Interoperability**: Apps work together through smart contracts—your CRM talks to your analytics talks to your AI
+- **Pay Only What You Use**: No subscriptions, no lock-ins, just transparent usage-based pricing
 
 **For Developers**:
 - **Zero Censorship**: No arbitrary rejections or platform politics
@@ -68,10 +69,9 @@ Fabstir's decentralised app store isn't just for AI apps—it's for ANY applicat
 - **Shared Intelligence**: Apps can securely share AI capabilities and data
 - **Instant Global Reach**: Deploy once, available everywhere
 
-**For Businesses**:
-- **Compliance Built-In**: Every app comes with audit trails and data sovereignty guarantees
-- **True Interoperability**: Apps work together through smart contracts—your CRM talks to your analytics talks to your AI
-- **Pay Only What You Use**: No subscriptions, no lock-ins, just transparent usage-based pricing
+**What's Already Operational**:
+- **Fabstir Cinema Player**: Stream films in cinemas with AI-powered content discovery
+- **White-Label Streaming Platform**: Netflix-like service you fully own, enhanced with AI search
 
 ## Real-World Impact: Not Theory, Reality
 
