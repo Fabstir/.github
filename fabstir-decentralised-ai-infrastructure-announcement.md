@@ -133,7 +133,7 @@ We're building compliance into our foundation:
 Complete transparency through open source:
 - Enhanced S5.js: [github.com/julesl23/s5.js](https://github.com/julesl23/s5.js)
 - Vector Database: [github.com/Fabstir/fabstir-vectordb](https://github.com/Fabstir/fabstir-vectordb)
-- Smart Contracts: Verified on Base blockchain
+- Smart Contracts: Verified on Base blockchain (multichain by design)
 
 Every line of code is auditable. No black boxes. Complete verification.
 
@@ -184,4 +184,4 @@ Connect with us to discover how Fabstir's infrastructure can enhance your busine
 
 ---
 
-*Jules Lai, Founder of Fabstir, is pioneering the decentralised infrastructure layer for Web3 entertainment and AI. With direct backing from the Sia Foundation and validation from 19 US distributors, Fabstir is proving that choice and competition benefit everyone.*
+*Jules Lai, Founder of Fabstir, is pioneering the decentralised infrastructure layer for Web3 entertainment and AI. With direct backing from the Sia Foundation and validation from 19 US movie distributors, Fabstir is proving that choice and competition benefit everyone.*
