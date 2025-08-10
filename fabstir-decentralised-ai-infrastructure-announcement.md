@@ -131,11 +131,14 @@ We're building compliance into our foundation:
 ## Open Source Commitment
 
 Complete transparency through open source:
-- Enhanced S5.js: [github.com/julesl23/s5.js](https://github.com/julesl23/s5.js)
-- Vector Database: [github.com/Fabstir/fabstir-vectordb](https://github.com/Fabstir/fabstir-vectordb)
-- Smart Contracts: Verified on Base blockchain (multichain by design)
+- **[Enhanced S5.js](https://github.com/julesl23/s5.js)**: Decentralized Storage Layer
+- **[Fabstir LLM Vector DB](https://github.com/Fabstir/fabstir-vectordb)**: AI Embedding & Knowledge Database
+- **[Fabstir LLM Contracts](https://github.com/Fabstir/fabstir-compute-contracts)**: Smart Contracts for Base L2
+- **[Fabstir LLM Host Node](https://github.com/Fabstir/fabstir-llm-node)**: GPU Provider Software
+- **[Fabstir LLM Web UI](https://github.com/Fabstir/fabstir-llm-ui)**: Marketplace Interface
+- **[Fabstir LLM Client SDK](https://github.com/Fabstir/fabstir-llm-sdk)**: P2P Connection Library
 
-Every line of code is auditable. No black boxes. Complete verification.
+Every line of code to be auditable. No black boxes. Complete verification.
 
 ## Market Validation
 
