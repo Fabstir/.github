@@ -238,6 +238,10 @@ We're building the future of decentralised AI with:
 - **GPU Operators**: Monetise your idle hardware in our marketplace
 - **Innovative Developers**: Creating the next generation of AI applications
 
+### Autonomous AI Agent Economy (Coming...)
+
+Our decentralised infrastructure is architected for the next paradigm shift: fully autonomous AI agents. By integrating HTTP 402 Payment Required with EIP 3009's gasless transactions, Fabstir will enable AI agents to independently discover services, negotiate prices, and execute micropayments without human intervention. Working with Coinbase AgentKit for rapid agent deployment, businesses can launch autonomous assistants in under 3 minutes that operate 24/7 at 85% lower costs than traditional solutions. With industry experts predicting AI agents will drive 80% of blockchain transactions within the next year—a $47 billion market by 2030—our P2P network, smart contracts, and vector database provide the perfect foundation for this autonomous economy. Early enterprise partners can already begin preparing their agent strategies, with priority access to our autonomous features launching September 2026.
+
 ## Join Our Beta Program
 
 The future of decentralised AI is here. Be among the first to experience:
