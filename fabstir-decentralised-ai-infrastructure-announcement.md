@@ -61,7 +61,7 @@ Through our Sia Foundation grant (completed in record time), we've enhanced the 
 
 **Business Benefits**:
 - **Guaranteed Availability**: Sia's blockchain network ensures your data remains accessible through cryptographic contracts
-- **Enhanced Encryption**: AES-256-GCM + XChaCha20-Poly1305 dual-layer protection
+- **Enhanced Encryption**: XChaCha20-Poly1305, a modern, high-speed cipher with long nonces for strong security and large-scale data
 - **Enterprise Performance**: Matches leading cloud providers' speed at up to 90% lower storage cost
 
 **In Plain English**: Your data becomes virtually indestructible whilst remaining completely under your control—no trust required.
