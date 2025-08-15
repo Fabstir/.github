@@ -2,7 +2,7 @@
 
 ![Fabstir Architecture](./images/Fabstir%20LLM%20Marketplace%20Architecture%2020250815b.png)
 
-## A New Choice for Enterprise AI
+## Enterprise AI for Everyone
 
 While enterprises invest millions in AI services, Fabstir is launching something revolutionary: the world's first fully decentralised AI infrastructure. Working directly with the Sia Foundation—creators of the most secure decentralised storage system by design—we're delivering complete data sovereignty whilst reducing costs by up to 80%. This is the free market alternative that gives businesses true control of their AI destiny.
 
