@@ -1,6 +1,6 @@
 # EXCLUSIVE: Fabstir Unveils World's First Decentralised AI Infrastructure—Built for Freedom, Privacy & Security
 
-![Fabstir Architecture](./images/Fabstir LLM Marketplace Architecture 20250815b.png)
+![Fabstir Architecture](./images/Fabstir%20LLM%20Marketplace%20Architecture%2020250815b.png)
 
 ## A New Choice for Enterprise AI
 
