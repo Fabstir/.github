@@ -138,7 +138,7 @@ Session starts → Generate ephemeral keys → Process AI inference → Session 
 - **Key Feature**: Built-in XChaCha20-Poly1305 AEAD encryption for decentralized storage
 
 ### Platformless AI
-- **GitHub Repository**: [https://github.com/julesl23/s5.js](https://github.com/Fabstir/fabstir-llm-sdk)
+- **GitHub Repository**: [https://github.com/Fabstir/fabstir-llm-sdk](https://github.com/Fabstir/fabstir-llm-sdk)
 - **License**: BUSL-1.1 (converts to AGPL-3.0 on 2029-01-01)
 
 ---
