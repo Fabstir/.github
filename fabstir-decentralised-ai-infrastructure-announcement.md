@@ -1,6 +1,6 @@
 # EXCLUSIVE: Fabstir Unveils Platformless AI—World's First Truly Decentralised AI Infrastructure Built for Freedom, Privacy & Security
 
-![Platformless AI Architecture](./images/Fabstir%20LLM%20Marketplace%20Architecture%2020250815b.png)
+![Platformless AI Architecture](./images/Fabstir%20LLM%20Marketplace%20Architecture%2020251016a.png)
 
 ## Enterprise AI for Everyone
 
