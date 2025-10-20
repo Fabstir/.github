@@ -131,4 +131,16 @@ Session starts → Generate ephemeral keys → Process AI inference → Session 
 
 ---
 
+## Resources
+
+### Enhanced S5.js
+- **GitHub Repository**: [https://github.com/julesl23/s5.js](https://github.com/julesl23/s5.js)
+- **Key Feature**: Built-in XChaCha20-Poly1305 AEAD encryption for decentralized storage
+
+### Platformless AI
+- **GitHub Repository**: [https://github.com/julesl23/s5.js](https://github.com/Fabstir/fabstir-llm-sdk)
+- **License**: BUSL-1.1 (converts to AGPL-3.0 on 2029-01-01)
+
+---
+
 _Enhanced S5.js's XChaCha20-Poly1305 encryption makes secure storage simple for developers. The fact that Platformless AI uses ephemeral keys instead simply reflects its stateless architecture - hosts don't persist anything, so neither should their encryption keys._
