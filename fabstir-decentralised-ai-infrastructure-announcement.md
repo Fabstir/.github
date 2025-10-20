@@ -1,12 +1,14 @@
-# EXCLUSIVE: Fabstir Unveils World's First Decentralised AI Infrastructure—Built for Freedom, Privacy & Security
+# EXCLUSIVE: Fabstir Unveils Platformless AI—World's First Truly Decentralised AI Infrastructure Built for Freedom, Privacy & Security
 
-![Fabstir Architecture](./images/Fabstir%20LLM%20Marketplace%20Architecture%2020250815b.png)
+![Platformless AI Architecture](./images/Fabstir%20LLM%20Marketplace%20Architecture%2020250815b.png)
 
 ## Enterprise AI for Everyone
 
-While enterprises invest millions in AI services, Fabstir is launching something revolutionary: the world's first fully decentralised AI infrastructure. Working directly with the Sia Foundation—creators of the most secure decentralised storage system by design—we're delivering complete data sovereignty whilst reducing costs by up to 80%. This is the free market alternative that gives businesses true control of their AI destiny.
+While enterprises invest millions in AI services, Fabstir is launching something revolutionary: **Platformless AI**, the world's first fully decentralised AI infrastructure. Working directly with the Sia Foundation—creators of the most secure decentralised storage system by design—we're delivering complete data sovereignty whilst reducing costs by up to 80%. This is the free market alternative that gives businesses true control of their AI destiny.
 
-## Current Development Status (August 2025)
+**Visit Platformless AI**: [https://platformlessai.org](https://platformlessai.org)
+
+## Current Development Status (October 2025)
 
 **What's Live Now:**
 - ✅ **Enhanced S5.js Storage Layer**: Completed ahead of schedule (2 months vs 8-month grant)
@@ -14,36 +16,38 @@ While enterprises invest millions in AI services, Fabstir is launching something
 - ✅ **Smart Contracts**: Deployed and verified on Base Sepolia testnet
 - ✅ **P2P Network**: Live with libp2p/KadDHT discovery and routing
 - ✅ **Real AI Inference**: GGUF models running at 250+ tokens/second
-- ✅ **Cryptographic Proofs**: Blake3 hashing (full EZKL ZK-proofs coming post-MVP)
-- 🔨 **Payment Integration**: USDC via account abstraction (finalizing)
+- ✅ **Cryptographic Proofs**: STARK proofs via Risc0 zkVM (221KB proofs, 737x on-chain reduction)
+- ✅ **End-to-End Encryption**: XChaCha20-Poly1305 AEAD with forward secrecy
+- 🔨 **Payment Integration**: USDC via account abstraction (finalising)
 
-**Beta Launch**: September 2025 (2 weeks)
-**Mainnet Launch**: Q4 2025
+**Beta Launch**: Week of October 20, 2025
+**Mainnet Launch**: Q1 2026
 
 ## Beta Testing Program - Join the Revolution
 
-We're seeking technical pioneers to help validate our decentralised AI infrastructure before public launch.
+We're seeking technical pioneers to help validate Platformless AI's decentralised infrastructure before public launch.
 
 **We're Looking For:**
-- **GPU Operators**: Run nodes on your idle hardware (RTX 3070+ recommended)
+- **GPU Operators**: Run nodes on your idle hardware (RTX 3060+ recommended)
 - **Enterprise Evaluators**: Test our compliance-ready infrastructure
 - **AI Developers**: Build applications on our decentralised stack
 - **Security Researchers**: Help us validate our zero-knowledge architecture
 
 **Beta Participants Receive:**
-- Early access to the platform (September 2025)
+- Early access to Platformless AI (October 2025)
 - Free test credits for AI inference
 - Direct influence on feature development
 - FAB token rewards for active participation
 - Priority support from our engineering team
 
 **How to Apply:**
-Contact us at: info [at] fabstir [dot] com
-Or visit our GitHub: github.com/fabstir
+- Visit: [https://platformlessai.org](https://platformlessai.org)
+- Contact: info [at] fabstir [dot] com
+- GitHub: github.com/fabstir-llm-marketplace
 
-*Limited spots available for September beta cohort*
+*Limited spots available for October beta cohort*
 
-## Why Businesses Need More Options
+## Why Businesses Need Platformless AI
 
 Today's AI landscape offers limited choices, with a few major providers setting the terms. Here's what enterprises are telling us they need:
 
@@ -53,9 +57,9 @@ Today's AI landscape offers limited choices, with a few major providers setting 
 - **Innovation Freedom**: Build whatever your business needs without platform restrictions
 - **True Ownership**: Own your infrastructure investment, not just rent temporary access
 
-**Our Philosophy**: Competition drives innovation and value. Fabstir is expanding the market by offering a decentralised alternative.
+**Our Philosophy**: Competition drives innovation and value. Platformless AI is expanding the market by offering a truly decentralised alternative—no company sits between you and AI models.
 
-## Fabstir's Four-Pillar Solution
+## Platformless AI's Four-Pillar Solution
 
 ### 1. Enhanced S5 Storage: Your Data, Your Control ✅ COMPLETE
 
@@ -80,26 +84,27 @@ Vector databases store your company's unique knowledge—the custom training tha
 
 **Real Example**: A law firm can store thousands of case precedents in our vector database. Their AI drafts contracts using their specific expertise, without exposing client data to any third party.
 
-### 3. Decentralised LLM Marketplace: The Free Market Advantage 🚧 BETA SEPTEMBER 2025
+### 3. Platformless AI Marketplace: The Free Market Advantage 🚧 BETA OCTOBER 2025
 
-Creating a true marketplace where thousands of providers compete to serve you better.
+Creating a true marketplace where thousands of providers compete to serve you better—with no platform in the middle.
 
 **Current Capabilities**:
 - P2P network operational with automatic job routing
-- Real-time inference with GGUF models (tiny-vicuna, llama-3.2, more coming)
+- Real-time inference with GGUF models (Llama 3.2, Mistral, Qwen, more coming)
 - Smart contract staking and reputation system deployed
 - 250+ tokens/second on consumer GPUs (RTX 4090)
+- End-to-end encryption by default
 
 **How It Works**:
 1. **Open Participation**: Anyone with compute power can become a provider—fostering innovation
 2. **Market Competition**: Natural price discovery through supply and demand
-3. **Quality Assurance**: Providers stake 1000 FAB tokens—automated systems ensure service quality
+3. **Quality Assurance**: Providers stake FAB tokens—STARK proofs ensure service quality
 4. **Instant Settlement**: Smart contracts handle payments transparently and immediately
 5. **Your Choice**: Select providers based on your specific needs—price, location, specialisation
 
-**The Opportunity**: We're democratising AI infrastructure, creating opportunities for providers and significant savings for users through competition.
+**The Opportunity**: Platformless AI democratises AI infrastructure, creating opportunities for providers and significant savings for users through true competition.
 
-### 4. AI-Enabled Application Store: Innovation Without Barriers (Coming Q1 2026)
+### 4. AI-Enabled Application Store: Innovation Without Barriers (Coming Q2 2026)
 
 A decentralised app store for applications that leverage AI and blockchain capabilities.
 
@@ -114,12 +119,12 @@ A decentralised app store for applications that leverage AI and blockchain capab
 - **Collaborative Ecosystem**: Share capabilities securely between applications
 - **Global Reach**: Deploy once, available everywhere
 
-## Real-World Applications
+## Real-World Applications with Platformless AI
 
 ### Financial Services: Protecting Competitive Edge
 **Challenge**: Investment firms need AI analysis without exposing proprietary strategies.
 
-**Fabstir Approach**: Trading algorithms remain encrypted in your vector database. Processing happens on distributed nodes using cryptographic proofs. Complete regulatory audit trails. Typical savings: 70-90% versus traditional solutions.
+**Platformless AI Approach**: Trading algorithms remain encrypted in your vector database. Processing happens on distributed nodes using cryptographic proofs. Complete regulatory audit trails. Typical savings: 70-90% versus traditional solutions.
 
 ### Healthcare: Privacy-First AI
 **Solution**: Patient data stays within hospital control. AI models process data locally. Multiple institutions can collaborate on research without sharing raw data. Full HIPAA compliance architecture.
@@ -132,7 +137,7 @@ A decentralised app store for applications that leverage AI and blockchain capab
 
 ## Built for Enterprise Compliance
 
-Designed from day one with compliance and enterprise security in mind:
+Platformless AI is designed from day one with compliance and enterprise security in mind:
 
 - **GDPR**: Privacy-first architecture naturally aligns with requirements
 - **ISO 27001**: Information security management (preparing for certification)
@@ -145,7 +150,7 @@ Designed from day one with compliance and enterprise security in mind:
 - Cryptographic data deletion (right to be forgotten)
 - Geographic data residency controls
 - Immutable audit trails
-- Zero-knowledge architecture means your data never touches our servers
+- Zero-knowledge architecture means your data never touches any servers
 
 ## The Value Proposition
 
@@ -155,7 +160,7 @@ Designed from day one with compliance and enterprise security in mind:
 - Infrastructure: £50,000-150,000
 - Plus: Lock-in costs, limited flexibility
 
-**Fabstir's Approach**:
+**Platformless AI Approach**:
 - Storage costs: 90% reduction (proven by Sia network)
 - Vector database: 80-90% reduction (leveraging decentralised storage)
 - LLM compute: Fair market pricing through P2P competition
@@ -174,45 +179,44 @@ Designed from day one with compliance and enterprise security in mind:
 **Current Stack**:
 ```
 Core Infrastructure:
-- Rust + libp2p 0.54 for P2P networking
-- GGUF model format with llama.cpp
-- CBOR serialization for data interchange
-- KadDHT for peer discovery
+- TypeScript SDK with 8 specialised managers
+- WebSocket P2P connections (direct user ↔ GPU provider)
+- GGUF model format with streaming inference
+- Multi-chain support (Base L2, opBNB)
 
 Storage Layer:
 - Enhanced S5.js with dual encryption
-- HNSW/IVF vector indexing
-- PostgreSQL for metadata
-- Real S5 portal integration (s5.vup.cx, s5.garden)
+- STARK proofs stored on S5 (Sia network)
+- 32-byte hash + CID on-chain (737x reduction)
+- Real S5 portal integration
 
-Smart Contracts (Base L2):
-- NodeRegistryFAB for provider registration
-- FAB token for staking (1000 FAB minimum)
+Smart Contracts:
 - JobMarketplace for work distribution
-- Reputation system for quality assurance
+- NodeRegistry for provider registration
+- ProofSystem for STARK verification
+- HostEarnings for payment management
 
 Performance:
 - 250+ tokens/second on RTX 4090
-- <100ms P2P discovery latency
-- <50ms vector search (10M+ vectors)
-- Model loading in <5 seconds
+- <2s response time
+- End-to-end encryption by default
+- Session-based context preservation
 ```
 
 ## Open Source Commitment
 
 Complete transparency through open source:
 - **[Enhanced S5.js](https://github.com/julesl23/s5.js)**: Decentralized Storage Layer ✅
-- **[Fabstir Vector DB](https://github.com/Fabstir/fabstir-vectordb)**: AI Knowledge Database ✅
-- **[Fabstir LLM Contracts](https://github.com/Fabstir/fabstir-compute-contracts)**: Smart Contracts ✅
-- **[Fabstir LLM Node](https://github.com/Fabstir/fabstir-llm-node)**: GPU Provider Software ✅
-- **[Fabstir LLM UI](https://github.com/Fabstir/fabstir-llm-ui)**: Marketplace Interface 🚧
-- **[Fabstir LLM SDK](https://github.com/Fabstir/fabstir-llm-sdk)**: P2P Client Library ✅
+- **[Platformless AI SDK](https://github.com/Fabstir/fabstir-llm-sdk)**: TypeScript SDK ✅
+- **[Smart Contracts](https://github.com/fabstir-compute-contracts)**: On Base Sepolia ✅
 
 Every line of code auditable. No black boxes. Complete verification.
 
+**FAQ**: Visit [https://platformlessai.org](https://platformlessai.org)
+
 ## Market Validation
 
-19 US film distributors have validated our infrastructure approach through Fabstir Cinema, demonstrating enterprise readiness. These businesses are choosing ownership over rental, control over convenience.
+Through Fabstir's entertainment platform, 19 US film distributors have validated our infrastructure approach, demonstrating enterprise readiness. These businesses are choosing ownership over rental, control over convenience.
 
 Network effects benefit everyone:
 - More providers increase choice and reduce costs
@@ -222,7 +226,7 @@ Network effects benefit everyone:
 
 ## The Market Opportunity
 
-Fabstir addresses multiple growth markets:
+Platformless AI addresses multiple growth markets:
 - **Custom AI Solutions**: £500+ billion by 2030
 - **Enterprise AI Infrastructure**: £300+ billion by 2030
 - **Web3/Smart Contract Integration**: £200+ billion by 2030
@@ -242,9 +246,9 @@ We're building the future of decentralised AI with:
 
 ### Autonomous AI Agent Economy (Coming...)
 
-Our decentralised infrastructure is architected for the next paradigm shift: fully autonomous AI agents. By integrating HTTP 402 Payment Required with EIP 3009's gasless transactions, Fabstir will enable AI agents to independently discover services, negotiate prices, and execute micropayments without human intervention. Working with Coinbase AgentKit for rapid agent deployment, businesses can launch autonomous assistants in under 3 minutes that operate 24/7 at 85% lower costs than traditional solutions. With industry experts predicting AI agents will drive 80% of blockchain transactions within the next year—a $47 billion market by 2030—our P2P network, smart contracts, and vector database provide the perfect foundation for this autonomous economy. Early enterprise partners can already begin preparing their agent strategies, with priority access to our autonomous features launching September 2026.
+Platformless AI's decentralised infrastructure is architected for the next paradigm shift: fully autonomous AI agents. By integrating HTTP 402 Payment Required with EIP 3009's gasless transactions, Platformless AI will enable AI agents to independently discover services, negotiate prices, and execute micropayments without human intervention. Working with frameworks like Coinbase AgentKit for rapid agent deployment, businesses can launch autonomous assistants in under 3 minutes that operate 24/7 at 85% lower costs than traditional solutions. With industry experts predicting AI agents will drive 80% of blockchain transactions within the next year—a $47 billion market by 2030—our P2P network, smart contracts, and vector database provide the perfect foundation for this autonomous economy. Early enterprise partners can already begin preparing their agent strategies, with priority access to our autonomous features launching Q3 2026.
 
-## Join Our Beta Program
+## Join Platformless AI's Beta Program
 
 The future of decentralised AI is here. Be among the first to experience:
 
@@ -256,14 +260,21 @@ The future of decentralised AI is here. Be among the first to experience:
 
 **Ready to Take Control of Your AI Infrastructure?**
 
-Beta testing begins September 2025. Limited spots available.
+Beta testing begins November, 2025. Limited spots available.
 
-Apply now: info [at] fabstir [dot] com
-
-Visit our GitHub for technical documentation: github.com/fabstir
+**Get Started:**
+- Visit: [https://platformlessai.org](https://platformlessai.org)
+- Apply: info [at] fabstir [dot] com
+- GitHub: github.com/fabstir-llm-sdk
+- **License**: BUSL-1.1 (converts to AGPL-3.0 on 2029-01-01)
 
 ---
 
-*Jules Lai, Founder of Fabstir, is pioneering the decentralised infrastructure layer for Web3 entertainment and AI. With grant support from the Sia Foundation and validation from 19 US movie distributors, Fabstir is proving that true ownership and competition benefit everyone.*
+*Jules Lai, Founder of Fabstir, is pioneering the decentralised infrastructure layer for Web3 entertainment and AI. Platformless AI represents the AI infrastructure component of the Fabstir ecosystem, delivering true platformless computing where no company sits between users and AI models. With grant support from the Sia Foundation and validation from 19 US movie distributors, Fabstir is proving that true ownership and competition benefit everyone.*
 
-*The Enhanced S5.js storage layer that powers Fabstir was made possible by the Sia Foundation's grant program—completed, enabling the rapid development of the full Fabstir ecosystem.*
+*The Enhanced S5.js storage layer that powers Platformless AI was made possible by the Sia Foundation's grant program—completed in record time, enabling the rapid development of the full ecosystem.*
+
+**Platformless AI - AI Without the Platform**  
+**Trustless. Private. Censorship-Resistant.**
+
+Visit [https://platformlessai.org](https://platformlessai.org) to learn more.
